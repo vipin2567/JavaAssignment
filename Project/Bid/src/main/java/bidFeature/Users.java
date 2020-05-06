@@ -4,7 +4,7 @@ public class Users {
 	private String name;
 	private String email;
 	private long phone;
-	private String zipcode;
+	
 	public String getItemName() {
 		return itemName;
 	}
